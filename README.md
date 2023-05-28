@@ -1,2 +1,1 @@
-# CRUD-JavaScript-Assincrono
-CRUD com JavaScript Assíncrono
+#  JS na web: crud com JavaScript assíncrono
